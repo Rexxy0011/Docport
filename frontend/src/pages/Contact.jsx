@@ -23,7 +23,7 @@ const Contact = () => {
             WUSE 2 <br /> SUITE 350 ASAI MALL ABUJA, NIGERIA{" "}
           </p>
           <p className="text-gray-500">
-            TEL: (+234) 565-633-5268 <br />
+            TEL: (000) 565-000-000 <br />
             Email: Asai@gmail.com
           </p>
           <p className="font-semibold text-lg text-gray-600">

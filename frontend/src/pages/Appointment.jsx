@@ -93,7 +93,7 @@ const Appointment = () => {
 
   const bookAppointment = async () => {
     if (!token) {
-      toast.warn("Please login to book an appointment");
+      toast.error("Please login to book appointment");
       return navigate("/login");
     }
     try {

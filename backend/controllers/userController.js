@@ -256,7 +256,7 @@ const initiatePayment = async (req, res) => {
         metadata: {
           appointmentId,
         },
-        callback_url: "http://localhost:5179/payment-success", // ⭐ ADD THIS HERE
+        callback_url: "http://localhost:5178/payment-success", // ⭐ ADD THIS HERE
       },
       {
         headers: {

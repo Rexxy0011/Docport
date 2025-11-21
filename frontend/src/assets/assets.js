@@ -5,6 +5,8 @@ import profile_pic from "./profile_pic.png";
 import contact_image from "./contact_image.png";
 import about_image from "./about_image.png";
 import logo from "./logo.svg";
+import nurse1 from "./nurse1.jpeg";
+import nurse4 from "./nurse4.jpeg";
 import dropdown_icon from "./dropdown_icon.svg";
 import menu_icon from "./menu_icon.svg";
 import cross_icon from "./cross_icon.png";
@@ -15,6 +17,9 @@ import info_icon from "./info_icon.svg";
 import upload_icon from "./upload_icon.png";
 import stripe_logo from "./stripe_logo.png";
 import razorpay_logo from "./razorpay_logo.png";
+import nurse2 from "./nurse2.jpeg";
+import nurse from "./nurse.jpeg";
+import doci from "./doci.jpeg";
 import doc1 from "./doc1.png";
 import doc2 from "./doc2.png";
 import doc3 from "./doc3.png";
@@ -36,6 +41,7 @@ import General_physician from "./General_physician.svg";
 import Gynecologist from "./Gynecologist.svg";
 import Neurologist from "./Neurologist.svg";
 import Pediatricians from "./Pediatricians.svg";
+import banner1 from "./banner1.jpeg";
 
 export const assets = {
   appointment_img,
@@ -55,6 +61,12 @@ export const assets = {
   upload_icon,
   stripe_logo,
   razorpay_logo,
+  doci,
+  nurse,
+  nurse1,
+  nurse2,
+  nurse4,
+  banner1,
 };
 
 export const specialityData = [

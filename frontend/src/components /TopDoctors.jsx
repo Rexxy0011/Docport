@@ -12,7 +12,7 @@ const TopDoctors = () => {
       <p className="sm:w-1/3 text-center text-sm font-thin">
         browse through our extensive list of trsuted doctors
       </p>
-      <div className="w-full grid grid-cols-auto gap-4 pt-5 gap-y-6 px-3 sm:px-0">
+      <div className="w-full grid grid-cols-2 sm:grid-cols-auto gap-4 pt-5 gap-y-6 px-3 sm:px-0">
         {doctors.slice(0, 10).map((item, index) => (
           <div
             onClick={() => {
